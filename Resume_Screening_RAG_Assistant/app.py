@@ -29,7 +29,7 @@ from rag_engine import build_engine, rank_candidates, CandidateEvaluation, PROVI
 
 st.set_page_config(
     page_title="AI Resume Screening Assistant",
-    page_icon="🧑‍💼",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
 )
